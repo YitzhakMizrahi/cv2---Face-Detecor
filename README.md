@@ -2,12 +2,18 @@ This is a [Python](https://www.python.org/) project with [`cv2`](https://pypi.or
 
 ## Getting Started
 
+First, run to start the program
+
 ```bash
-run to start the program
 python Face_Detector.py
+```
 
-press q or Q to stop the program
+Press to stop the program
 
+```bash
+q 
+# or
+Q 
 ```
 
 ## Learn More
