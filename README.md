@@ -1,11 +1,12 @@
-This is a [Python](https://www.python.org/) project bootstrapped with [`cv2`](https://pypi.org/project/opencv-python/).
+This is a [Python](https://www.python.org/) project with [`cv2`](https://pypi.org/project/opencv-python/).
 
 ## Getting Started
 
-First, run the development server:
-
 ```bash
+run to start the program
 python Face_Detector.py
+
+press q or Q to stop the program
 
 ```
 

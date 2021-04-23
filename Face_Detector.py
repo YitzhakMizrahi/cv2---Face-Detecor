@@ -1,10 +1,10 @@
 import cv2
 
 # Load some pre-trained data on face frontals from opencv (haar cascade algorithm)
-trained_face_data = cv2.CascadeClassifier("haarcascade_frontalface_default.xml")
+trained_face_data = cv2.CascadeClassifier("./data/haarcascades/haarcascade_frontalface_default.xml")
 
 # Choose an image to detect faces in
-img = cv2.imread("rdj.jpg")
+img = cv2.imread("./img/rdj.jpg")
 
 # To capture video from webcam
 # webcam = cv2.VideoCapture(0)
